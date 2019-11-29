@@ -1,0 +1,13 @@
+[28-Jan-2018 16:47:26 UTC] PHP Notice:  Undefined index: id in /home/myoplanprez16/public_html/admin/login.php on line 41
+[29-Aug-2018 22:17:53 UTC] PHP Notice:  Undefined index: id in /home/myoplanprez16/public_html/admin/login.php on line 41
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[29-Aug-2018 22:18:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/myoplanprez16/public_html/admin/sports.php on line 186
+[22-Oct-2018 01:27:02 UTC] PHP Notice:  Undefined index: id in /home/myoplanprez16/public_html/admin/login.php on line 41
